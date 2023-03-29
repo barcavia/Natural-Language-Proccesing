@@ -1,6 +1,6 @@
 # Natural Language Processing
 
-This repository contains various NLP projects that I have worked on, including some that were a part of my B.Sc. in Computer Science at the Hebrew University of Jerusalem. The projects utilize various machine learning tools and models and covers a range of NLP tasks, such as sentiment analysis, text classification, named entity recognition, and more.
+This repository contains various NLP projects that I have worked on, including some that were a part of my B.Sc. in Computer Science at the Hebrew University of Jerusalem. The projects utilize various machine learning tools and models, and covers a range of NLP tasks, such as sentiment analysis, text classification, named entity recognition, and more.
 
 ## Projects
 
