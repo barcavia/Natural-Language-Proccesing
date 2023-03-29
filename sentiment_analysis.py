@@ -1,13 +1,13 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-from data_loader import *
+from utils.data_loader import *
 import torch.optim as optim
 import numpy as np
 import os
 from torch.utils.data import DataLoader, TensorDataset, Dataset
 import operator
-import data_loader
+import utils.data_loader as data_loader
 import pickle
 import tqdm
 import matplotlib.pyplot as plt
