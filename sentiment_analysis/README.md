@@ -25,10 +25,10 @@ We implemented 3 different models:
 
 ## Results
 First, I will present the Bi-Directional LSTM performance on the validation set, using two graphs:
-1. Loss as a function of the epoch number:<br> ![loss](assets/LSTM_loss.png)
+1. Loss as a function of the epoch number:<br> ![see_assets](assets/LSTM_loss.png)
  
 
-2. Accuracy as a function of the epoch number:<br> ![loss](assets/LSTM_acc.png)
+2. Accuracy as a function of the epoch number:<br> ![see_assets](assets/LSTM_acc.png)
 
 In addition, the performance on the test set, and on the special subsets was:
 * The accuracy on the test set was: 0.861
