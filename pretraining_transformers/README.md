@@ -62,7 +62,7 @@ Our results showed that the Log-linear classifier was the most sensitive to the 
 Pros:
 * The zero-shot classification model does not require fine-tuning on a specific task, which can save time and resources.
 * The model can be used to classify inputs into a large number of categories, even ones that were not seen during training.
-<br>
+
 Cons:
 * The zero-shot classification model may not perform as well as a model specifically trained for a particular task.
 * The model relies on the set of possible labels provided by the user, which may be limited or biased.
