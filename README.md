@@ -6,6 +6,7 @@ This repository contains various NLP projects that I have worked on, including s
 
 * **Sentiment Analysis of Movie Reviews**: This project compares the performance of 3 different models, including Bi-directional LSTM, on a stanfordSentimentTreebank dataset
 and determines which one is the most effective at predicting the sentiment of the given sentences.
+* **Pretraining and Transformers**: This project involves experimenting with simple Transformer models to perform text classification on a subset of the 20newsgroups dataset. The goal is to compare the performance of three different models: two common uses of Transformers and a simple linear model. The project involves running and evaluating a Log-linear classifier, finetuning a Transformer model, and running zero-shot classification.
 
 ## Usage
 
